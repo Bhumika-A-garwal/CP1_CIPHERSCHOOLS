@@ -1,8 +1,8 @@
 /*
 /*Write a Program that takes an integer value n as input and prints first n lines of the pyramid pattern after 180 degrees of rotation.
-Following are the first 5 rows of Pascal’s Triangle.
+Following are the first 5 rows of pyramid.
 
-		*
+        *
       * * 
     * * * 
   * * * * 

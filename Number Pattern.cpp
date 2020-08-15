@@ -1,6 +1,6 @@
 /*
 /*Write a Program that takes an integer value n as input and prints first n lines of the number pattern. Following are the
-first 6 rows of Pascal’s Triangle.
+first 6 rows of Number Pattern.
 1  
 1 2 
 1 2 3 

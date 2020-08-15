@@ -1,5 +1,5 @@
 /*Write a program that takes an integer value n as input and prints first n lines of the simple pyramid pattern. Following 
-are the first 6 rows of Pascal’s Triangle.
+are the first 6 rows of Simple pyramid pattern.
 *
 * *
 * * *
